@@ -174,16 +174,17 @@ const VideoSection = () => {
             </DialogDescription>
           </DialogHeader>
           <div className="aspect-video">
-            <iframe
-              width="100%"
-              height="100%"
-              src={videoModal?.videoUrl}
-              title={videoModal?.title}
-              frameBorder="0"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              allowFullScreen
-              className="rounded-lg"
-            ></iframe>
+<iframe
+  width="100%"
+  height="100%"
+  src={videoModal ? videoModal.videoUrl.replace("watch?v=", "embed/") : ""}
+  title={videoModal?.title}
+  frameBorder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowFullScreen
+  className="rounded-lg"
+></iframe>
+
           </div>
           <p className="text-sm text-muted-foreground">
             {videoModal?.description}

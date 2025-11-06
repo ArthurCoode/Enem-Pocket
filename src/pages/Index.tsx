@@ -20,9 +20,23 @@ const Index = () => {
       <QuizSection />
       <FormulaSection />
       <ReviewSection />
+
       <footer className="py-8 border-t bg-muted/30">
-        <div className="container text-center text-sm text-muted-foreground">
-          <p>© 2024 ENEM Pocket - Seu Canivete Suíço para o ENEM</p>
+        <div className="container text-center text-sm text-muted-foreground space-y-1">
+          <p>© 2025 NextEnem - Seu Canivete Suíço para o ENEM</p>
+          <p>
+<p>
+  Desenvolvido pela{" "}
+  <a
+    href="https://instagram.com/nextdev.io"
+    target="_blank"
+  className="text-red-500 no-underline hover:text-red-600 transition"
+  >
+    NextDev
+  </a>
+</p>
+
+          </p>
         </div>
       </footer>
     </div>
