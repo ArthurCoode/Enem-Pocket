@@ -1,73 +1,99 @@
-# Welcome to your Lovable project
+🎓 NextEnem – Seu Canivete Suíço para o ENEM
 
-## Project info
+O NextEnem é uma plataforma completa e intuitiva criada para ajudar estudantes a se prepararem para o ENEM com eficiência. O site reúne tópicos essenciais, videoaulas, redações modelo, editor de redação, mini simulados, fórmulas importantes e muito mais — tudo em um só lugar.
 
-**URL**: https://lovable.dev/projects/7ce37327-f98d-4760-919c-98e418848df2
+✅ 📌 Funcionalidades Principais
+🔹 1. Tópicos do que mais cai no ENEM
 
-## How can I edit this code?
+Seleção dos assuntos mais recorrentes.
 
-There are several ways of editing your application.
+Explicações claras e objetivas.
 
-**Use Lovable**
+Cada tópico acompanha videoaula, resumo e exercícios.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/7ce37327-f98d-4760-919c-98e418848df2) and start prompting.
+🎥 2. Diretório Completo de Videoaulas
 
-Changes made via Lovable will be committed automatically to this repo.
+Videoaulas organizadas por matéria e assunto.
 
-**Use your preferred IDE**
+Aulas sobre Linguagens, Humanas, Natureza e Matemática.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Professores com didática clara e conteúdo atualizado.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+✍️ 3. Temas de Redação + Propostas
 
-Follow these steps:
+Diretório completo com:
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Temas anteriores.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Temas inéditos.
 
-# Step 3: Install the necessary dependencies.
-npm i
+Propostas detalhadas.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+Repertórios socioculturais úteis.
+
+Modelos de redação nota 1000.
+
+⌛ 4. Editor de Redação com Timer
+
+Editor integrado para treinar redações diretamente no site.
+
+Timer configurável para simular a prova real.
+
+Contador automático de palavras e caracteres.
+
+Possibilidade de salvar e editar depois.
+
+📝 5. Mini Simulados (5 Questões)
+
+Mini simulados rápidos e eficientes.
+
+Questões atualizadas no formato ENEM.
+
+Feedback imediato com explicações.
+
+➗ 6. Seção de Fórmulas Essenciais
+
+Fórmulas de Matemática, Física e Química.
+
+Explicações simples e exemplos.
+
+Tudo acessível em uma página única e organizada.
+
+
+🚀 Tecnologias Utilizadas
+
+React.js (frontend)
+
+TypeScript
+
+TailwindCSS
+
+
+YouTube Embed API para videoaulas
+
+
+🧩 Objetivo do Projeto
+
+Fornecer aos estudantes uma plataforma simples, didática e completa, reunindo as ferramentas essenciais para estudar e se preparar para o ENEM sem complicação.
+
+📦 Como Rodar o Projeto Localmente
+✅ 1. Clone o repositório
+git clone https://github.com/ArthurCoode/Enem-Pocket.git
+cd enem-pocket
+
+✅ 2. Instale as dependências
+npm install
+
+✅ 3. Rode o projeto
 npm run dev
-```
 
-**Edit a file directly in GitHub**
+✅ 4. Acesse no navegador
+http://localhost:8080,
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+✅ Contribuições
 
-**Use GitHub Codespaces**
+Sinta-se à vontade para abrir issues, enviar sugestões e contribuir com melhorias.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+⭐ Aviso Final
 
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/7ce37327-f98d-4760-919c-98e418848df2) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Este projeto foi desenvolvido com o objetivo de facilitar a vida do estudante, trazendo clareza, organização e praticidade para o estudo diário.
