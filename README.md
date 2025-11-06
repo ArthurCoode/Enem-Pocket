@@ -1,7 +1,6 @@
 # 🎓 NextEnem – Seu Canivete Suíço para o ENEM
 
-O **NextEnem** é uma plataforma completa e intuitiva criada para ajudar estudantes a se prepararem para o ENEM com eficiência.  
-Aqui você encontra **videoaulas, tópicos essenciais, editor de redação, mini simulados, fórmulas importantes, temas de redação e muito mais** — tudo em um único site.
+O **NextEnem** é uma plataforma completa e intuitiva criada para ajudar estudantes a se prepararem para o ENEM com eficiência. Aqui você encontra **videoaulas, tópicos essenciais, editor de redação, mini simulados, fórmulas importantes, temas de redação e muito mais** — tudo em um único site.
 
 ---
 
